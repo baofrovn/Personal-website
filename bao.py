@@ -74,7 +74,7 @@ st.header("My Goals & Objectives")
 st.write("---")
 st.write(
   """
-There is an immense potential for AI development in Vietnam, given the strong demand for skillful employees in making use of AI to address current challenges. Aspects like banking, healthcare, commerce, and education seem to reap the benefits of AI applications, ranging from natural language processing for self-service customer support to voice bots aiding the medical field in managing, screening, and tracing infections during the Covid-19 pandemic. I believe, however, such power is not fully wielded, and hence my goal is to advance the AI market in Vietnam and harness AI to enhance societal well-being. This can only be done when I pursue a career in Computer Science.
+
   """
 )
 
@@ -113,9 +113,7 @@ st.write("---")
 st.write("📖", ":blue[PTNK Program in Interdisciplinary Sciences & Education - School Program]")
 st.write(
     """
-- Generating ideas and examining their validities to do scientific research
-- Writing proposals and survey papers to illustrate the possibility and methodology in putting ideas into reality.
-- Improving the understanding of AI applications in daily life
+
 
 """
 )
@@ -126,10 +124,7 @@ st.write("\n")
 st.write("📖", ":blue[AIoT Lab VN at International university - National University HCMC]")
 st.write(
     """
-- Cooperating with the other teammates for the project of household fall detection.
-- Working with mentors to upload the model to a website for public use.
-- Gaining experience in implementing LSTM in building models and knowledge in website programming language.
-- Looking for an opportunity to learn how an AI model is built.
+
 
 """
 )
@@ -140,9 +135,7 @@ st.write("\n")
 st.write("📖", ":blue[Volunteering at Summer campaign 2024]")
 st.write(
     """
-- Cooperating with the other people to organize events.
-- Raising personal awareness of responsibility towards society.
-- Gaining skills of organizing events.
+
 
 """
 )
